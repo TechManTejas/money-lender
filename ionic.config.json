@@ -1,0 +1,8 @@
+{
+  "name": "Money Lender",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "14964ca1"
+}
